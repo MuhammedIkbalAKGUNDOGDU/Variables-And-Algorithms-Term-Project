@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1716155900 source:c:\users\muham\onedrive\documents\code blocks c\veriyapilarivealgoritmalarproje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
